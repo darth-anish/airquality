@@ -1,0 +1,973 @@
+site,site_name,elevation,site_type,site_area,state
+debb007,Elsterwerda,89,background,suburban,bb
+debb021,Potsdam-Zentrum,31,background,urban,bb
+debb029,Schwedt (Oder),5,industrial,suburban,bb
+debb032,Eisenhüttenstadt,40,industrial,suburban,bb
+debb044,"Cottbus,Bahnhofstr.",75,traffic,urban,bb
+debb045,"Frankfurt (Oder),Leipziger Str.",56,traffic,urban,bb
+debb048,Neuruppin,43,background,suburban,bb
+debb049,"Brandenburg,Neuendorfer Str.",33,traffic,urban,bb
+debb053,Hasenholz,88,background,rural_regional,bb
+debb054,Potsdam Zeppelinstr.,31,traffic,urban,bb
+debb055,Brandenburg a.d. Havel,33,background,suburban,bb
+debb060,Eberswalde Breite Straße,20,traffic,urban,bb
+debb063,Wittenberge,22,background,suburban,bb
+debb064,Cottbus,75,background,urban,bb
+debb065,Lütte (Belzig),111,background,rural_regional,bb
+debb066,Spreewald,52,background,rural_regional,bb
+debb067,Nauen,31,background,suburban,bb
+debb068,"Bernau,Lohmühlenstr.",71,traffic,urban,bb
+debb073,"Potsdam,Großbeerenstr.",32,traffic,urban,bb
+debb075,"Potsdam,Groß Glienicke",39,background,suburban,bb
+debb083,Spremberg,99,background,suburban,bb
+debb086,Blankenfelde-Mahlow,43,background,suburban,bb
+debb092,Frankfurt (Oder),74,background,suburban,bb
+debb109,Luckenwalde,50,NA,NA,bb
+debb110,Dallgow-Döberitz,39,NA,NA,bb
+debe010,B Wedding-Amrumer Str.,35,background,urban,be
+debe018,B Schöneberg-Belziger Straße,40,background,urban,be
+debe027,B Marienfelde-Schichauweg,45,background,rural_nearcity,be
+debe032,B Grunewald (3.5 m),50,background,rural_nearcity,be
+debe034,B Neukölln-Nansenstraße,35,background,urban,be
+debe051,B Buch,60,background,suburban,be
+debe056,B Friedrichshagen,35,background,rural_nearcity,be
+debe061,B Steglitz-Schildhornstr.,45,traffic,urban,be
+debe062,"B Frohnau,Funkturm (3.5 m)",50,background,rural_nearcity,be
+debe063,B Neukölln-Silbersteinstr.,40,traffic,urban,be
+debe064,B Neukölln-Karl-Marx-Str. 76,40,traffic,urban,be
+debe065,B Friedrichshain-Frankfurter Allee,40,traffic,urban,be
+debe066,B Karlshorst-Rheingoldstr./Königswinterstr.,35,background,urban,be
+debe067,B Hardenbergplatz,35,traffic,urban,be
+debe068,"B Mitte,Brückenstraße",35,background,urban,be
+debe069,"B Mariendorf,Mariendorfer Damm",50,traffic,urban,be
+debw004,Eggenstein,109,background,rural_nearcity,bw
+debw005,Mannheim-Nord,94,industrial,suburban,bw
+debw009,Heidelberg,112,background,urban,bw
+debw010,Wiesloch,162,background,suburban,bw
+debw013,Stuttgart Bad Cannstatt,235,background,urban,bw
+debw015,Heilbronn,157,background,urban,bw
+debw019,Ulm,481,background,urban,bw
+debw022,Kehl,136,industrial,suburban,bw
+debw023,Weil am Rhein,275,background,suburban,bw
+debw024,Ludwigsburg,302,background,suburban,bw
+debw027,Reutlingen,385,background,urban,bw
+debw029,Aalen,424,background,suburban,bw
+debw031,Schwarzwald-Süd,904,background,rural_regional,bw
+debw033,Pforzheim,278,background,urban,bw
+debw038,Friedrichshafen,404,background,urban,bw
+debw039,Villingen-Schwenningen,700,background,suburban,bw
+debw042,Bernhausen,370,background,suburban,bw
+debw046,Biberach,534,background,suburban,bw
+debw052,Konstanz,403,background,urban,bw
+debw059,Tauberbischofsheim,177,background,suburban,bw
+debw073,Neuenburg,223,background,suburban,bw
+debw076,Baden-Baden,148,background,suburban,bw
+debw080,Karlsruhe_Reinhold-Frank-Strasse,119,traffic,urban,bw
+debw081,Karlsruhe-Nordwest,114,background,urban,bw
+debw084,Freiburg,262,background,urban,bw
+debw087,Schwäbische_Alb,798,background,rural_regional,bw
+debw098,Mannheim_Friedrichsring,101,traffic,urban,bw
+debw099,Stuttgart_Arnulf-Klett-Platz,244,traffic,urban,bw
+debw107,Tübingen,325,background,suburban,bw
+debw112,Gaertringen,466,background,suburban,bw
+debw116,Stuttgart Hohenheimer Straße (S),302,traffic,urban,bw
+debw118,Stuttgart Am Neckartor (S),239,traffic,urban,bw
+debw120,Leonberg Grabenstraße (S),387,traffic,urban,bw
+debw122,Freiburg Schwarzwaldstraße (V),289,traffic,urban,bw
+debw125,Pfinztal Karlsruher Straße (S),135,traffic,suburban,bw
+debw136,Tübingen Mühlstraße (S),340,traffic,urban,bw
+debw147,Reutlingen Lederstraße Ost (S),382,traffic,urban,bw
+debw152,Heilbronn Weinsberger Straße Ost (S),165,traffic,urban,bw
+debw156,Schramberg Oberndorfer Straße,458,traffic,urban,bw
+deby001,Ansbach/Residenzstraße,400,traffic,urban,by
+deby002,Arzberg/Egerstraße,480,background,suburban,by
+deby004,Kleinwallstadt/Hofstetter Straße,124,background,rural_nearcity,by
+deby005,Aschaffenburg/Bussardweg,134,background,suburban,by
+deby006,Augsburg/Königsplatz,492,traffic,urban,by
+deby007,Augsburg/Bourges-Platz,477,background,urban,by
+deby009,Bamberg/Löwenbrücke,231,background,urban,by
+deby012,Burghausen/Marktler Straße,420,background,suburban,by
+deby013,Mehring/Sportplatz,415,background,rural_regional,by
+deby014,Coburg/Lossaustraße,291,traffic,urban,by
+deby020,Hof/LfU,525,background,suburban,by
+deby021,Ingolstadt/Rechbergstraße,374,traffic,urban,by
+deby026,Vohburg a.d. Donau/Alter Wöhrer Weg,355,background,suburban,by
+deby028,Kelheim/Regensburger Straße,348,traffic,urban,by
+deby030,Saal a.d. Donau/Regensburger Straße,340,background,suburban,by
+deby031,Kempten (Allgäu)/Westendstraße,678,background,suburban,by
+deby032,Kulmbach/Konrad-Adenauer-Straße,303,background,urban,by
+deby033,Landshut/Podewilsstraße,390,traffic,urban,by
+deby035,Lindau (Bodensee)/Friedrichshafener Straße,411,traffic,urban,by
+deby037,München/Stachus,521,traffic,urban,by
+deby039,München/Lothstraße,521,background,urban,by
+deby047,Naila/Selbitzer Berg,534,background,rural_nearcity,by
+deby049,Neustadt a.d. Donau/Eining,359,background,rural_regional,by
+deby052,Neu-Ulm/Gabelsbergerstraße,470,background,urban,by
+deby053,Nürnberg/Bahnhof,307,traffic,urban,by
+deby056,Fürth/Theresienstraße,293,traffic,urban,by
+deby058,Nürnberg/Muggenhof,300,background,urban,by
+deby062,Regen/Bodenmaiser Straße,545,background,suburban,by
+deby063,Regensburg/Rathaus,337,traffic,urban,by
+deby067,Schwandorf/Wackersdorfer Straße,380,background,suburban,by
+deby068,Schweinfurt/Obertor,231,background,urban,by
+deby072,Tiefenbach/Altenschneeberg,755,background,rural_regional,by
+deby075,Weiden i.d.OPf./Nikolaistraße,400,background,urban,by
+deby077,Würzburg/Kopfklinik,226,background,suburban,by
+deby079,Bad Reichenhall/Nonn,469,background,urban,by
+deby088,Trostberg/Schwimmbadstraße,488,background,suburban,by
+deby089,München/Johanneskirchen,513,background,suburban,by
+deby093,Sulzbach-Rosenberg/Lohe,393,background,suburban,by
+deby099,Augsburg/LfU,495,background,suburban,by
+deby109,Andechs/Rothenfeld,700,background,rural_regional,by
+deby110,Augsburg/Karlstraße,485,traffic,urban,by
+deby111,Bayreuth/Hohenzollernring,337,traffic,urban,by
+deby113,Erlangen/Kraepelinstraße,284,background,suburban,by
+deby115,München/Landshuter Allee,521,traffic,urban,by
+deby118,Passau/Stelzhamerstraße,300,background,urban,by
+deby119,Würzburg/Stadtring Süd,198,traffic,urban,by
+deby120,Nürnberg/Von-der-Tann-Straße,308,traffic,urban,by
+deby121,Oberaudorf/Inntal-Autobahn,469,traffic,rural_nearcity,by
+deby122,Bad Hindelang/Oberjoch,1169,background,rural_regional,by
+deby124,Burgbernheim/Grüne Au,362,background,rural_regional,by
+deby187,Oettingen/Goethestraße,417,background,suburban,by
+deby188,Schwabach/Angerstraße,344,background,urban,by
+deby189,München/Allach,510,background,suburban,by
+deby196,Garmisch-Partenkirchen/Wasserwerk,732,background,rural_nearcity,by
+dehb001,Bremen-Mitte,10,background,urban,hb
+dehb002,Bremen-Ost,7,background,urban,hb
+dehb004,Bremen-Nord,20,background,urban,hb
+dehb005,Bremerhaven,3,background,urban,hb
+dehb006,Bremen Verkehr 1,5,traffic,urban,hb
+dehb011,Cherbourger Straße,5,traffic,urban,hb
+dehb012,Bremen-Oslebshausen,8,background,urban,hb
+dehb013,Bremen-Hasenbüren,4,industrial,rural_regional,hb
+dehe001,Darmstadt,158,background,urban,he
+dehe005,Frankfurt-Höchst,103,background,urban,he
+dehe008,Frankfurt-Ost,100,background,urban,he
+dehe011,Hanau,108,background,urban,he
+dehe013,Kassel-Mitte,181,background,urban,he
+dehe018,Raunheim,90,background,urban,he
+dehe020,Wetzlar,152,background,urban,he
+dehe022,Wiesbaden-Süd,121,background,urban,he
+dehe024,Witzenhausen/Wald,610,background,rural,he
+dehe026,Spessart,502,background,rural_regional,he
+dehe028,Fürth/Odenwald,484,background,rural,he
+dehe030,Marburg,182,background,urban,he
+dehe032,Bebra,204,background,urban,he
+dehe037,Wiesbaden-Ringkirche,145,traffic,urban,he
+dehe039,Burg Herzberg (Grebenau),491,background,rural,he
+dehe040,Darmstadt-Hügelstraße,158,traffic,urban,he
+dehe041,Frankfurt-Friedb.Ldstr.,119,traffic,urban,he
+dehe042,Linden/Leihgestern,172,background,rural,he
+dehe043,Riedstadt,87,background,rural_nearcity,he
+dehe044,Limburg,128,background,urban,he
+dehe045,Michelstadt,209,background,urban,he
+dehe046,Bad Arolsen,343,background,rural,he
+dehe049,Kassel-Fünffenster-Str.,179,traffic,urban,he
+dehe050,Zierenberg,489,background,rural,he
+dehe051,Wasserkuppe,931,background,rural,he
+dehe052,Kleiner Feldberg,811,background,rural,he
+dehe059,Fulda-Petersberger Str.,277,traffic,urban,he
+dehe060,Kellerwald,483,background,rural_regional,he
+dehe061,Gießen-Westanlage,162,traffic,urban,he
+dehe062,Marburg-Univers.Straße,190,traffic,urban,he
+dehe063,Heppenheim-Lehrstraße,110,traffic,urban,he
+dehe112,Wiesbaden-Schiersteiner Str.,140,traffic,urban,he
+dehe116,Offenbach-Untere Grenzstraße,108,traffic,urban,he
+dehe131,Limburg-Schiede,122,traffic,urban,he
+dehe134,Fulda-Zentral,271,background,urban,he
+dehe135,Frankfurt-Schwanheim,94,background,urban,he
+dehe150,NA,95,background,urban,he
+dehh008,Hamburg Sternschanze,15,background,urban,hh
+dehh015,Hamburg Veddel,4,industrial,urban,hh
+dehh016,Hamburg Billbrook,5,industrial,urban,hh
+dehh026,Hamburg Stresemannstraße,20,traffic,urban,hh
+dehh047,Hamburg Bramfeld,31,background,suburban,hh
+dehh050,Hamburg Neugraben,3,background,suburban,hh
+dehh059,Hamburg Wilhelmsburg,3,background,urban,hh
+dehh064,Hamburg Kieler Straße,16,traffic,urban,hh
+dehh068,Hamburg Habichtstraße,12,traffic,urban,hh
+dehh070,Hamburg Max-Brauer-Allee II (Straße),25,traffic,urban,hh
+dehh079,Hamburg Altona Elbhang,25,background,urban,hh
+dehh081,Hamburg Hafen,6,background,urban,hh
+demv004,Gülzow,17,background,rural,mv
+demv007,Rostock-Stuthof,5,background,suburban,mv
+demv012,Löcknitz,17,background,rural,mv
+demv017,Göhlen,25,background,rural,mv
+demv019,Güstrow,17,background,urban,mv
+demv020,Rostock Am Strande,1,traffic,urban,mv
+demv021,Rostock-Warnemünde,2,background,urban,mv
+demv022,Rostock-Holbeinplatz,9,traffic,urban,mv
+demv023,Schwerin-Obotritenring,58,traffic,urban,mv
+demv024,Leizen,116,background,rural,mv
+demv025,Stralsund-Knieperdamm,8,traffic,urban,mv
+demv026,Garz,17,background,rural,mv
+demv028,Wismar,5,background,urban,mv
+demv031,Rostock-Hohe Düne,2,industrial,urban,mv
+demv058,Neubrandenburg Woldegker Straße,16,traffic,urban,mv
+deni011,Braunschweig,98,background,suburban,ni
+deni016,Oker/Harlingerode,208,background,suburban,ni
+deni020,Wolfsburg,66,background,suburban,ni
+deni028,Eichsfeld,185,background,suburban,ni
+deni029,Ostfriesland,1,background,suburban,ni
+deni031,Jadebusen,2,background,rural,ni
+deni038,Osnabrück,95,background,urban,ni
+deni041,Weserbergland,54,background,suburban,ni
+deni042,Göttingen,170,background,suburban,ni
+deni043,Emsland,30,background,suburban,ni
+deni048,Hannover Verkehr,66,traffic,urban,ni
+deni051,Wurmberg,939,background,rural,ni
+deni052,Allertal,38,background,suburban,ni
+deni053,Südoldenburg,17,industrial,suburban,ni
+deni054,Hannover,85,background,urban,ni
+deni058,Ostfries. Inseln,5,background,rural,ni
+deni059,Elbmündung,3,background,rural,ni
+deni060,Wendland,16,background,rural,ni
+deni062,Lüneburger Heide,47,background,suburban,ni
+deni063,Altes Land,3,background,rural,ni
+deni066,Hildesheim Verkehr,86,traffic,urban,ni
+deni067,Osnabrück-Verkehr,69,traffic,urban,ni
+deni068,Göttingen-Verkehr,150,traffic,urban,ni
+deni070,Salzgitter-Drütte,93,industrial,rural,ni
+deni075,Braunschweig-Verkehr,81,traffic,urban,ni
+deni077,Solling-Süd,295,background,rural,ni
+deni143,Oldenburg Heiligengeistwall,8,traffic,urban,ni
+deni157,Wolfsburg Heßlinger Straße,61,traffic,urban,ni
+denw002,Datteln-Hagem,56,background,suburban,nw
+denw006,Lünen-Niederaden,59,background,suburban,nw
+denw008,Dortmund-Eving,71,background,urban,nw
+denw010,Unna-Königsborn,76,background,suburban,nw
+denw015,Marl-Sickingmühle,37,background,suburban,nw
+denw021,Bottrop-Welheim,30,industrial,urban,nw
+denw022,Gelsenkirchen-Bismarck,30,background,suburban,nw
+denw024,Essen-Vogelheim,40,background,urban,nw
+denw029,Hattingen-Blankenstein,95,background,suburban,nw
+denw034,Duisburg-Walsum,17,industrial,urban,nw
+denw038,Mülheim-Styrum,39,background,urban,nw
+denw040,Duisburg-Buchholz,35,background,suburban,nw
+denw042,Krefeld-Linn,36,background,urban,nw
+denw043,Essen-Ost Steeler Straße,113,traffic,urban,nw
+denw053,Köln-Chorweiler,46,background,urban,nw
+denw058,Hürth,92,industrial,suburban,nw
+denw059,Köln-Rodenkirchen,50,background,suburban,nw
+denw062,Bonn-Auerberg,60,background,suburban,nw
+denw064,Simmerath (Eifel),580,background,rural_regional,nw
+denw065,Netphen (Rothaargebirge),641,background,rural_regional,nw
+denw066,Nettetal-Kaldenkirchen,47,background,rural_nearcity,nw
+denw067,Bielefeld-Ost,106,background,urban,nw
+denw068,Soest-Ost,108,background,rural_nearcity,nw
+denw071,Düsseldorf-Lörick,38,background,urban,nw
+denw074,Niederzier,105,industrial,rural_nearcity,nw
+denw078,Ratingen-Tiefenbroich,42,background,suburban,nw
+denw079,Leverkusen-Manfort,50,background,suburban,nw
+denw080,Solingen-Wald,208,background,suburban,nw
+denw081,Borken-Gemen,44,background,rural_nearcity,nw
+denw082,Düsseldorf Corneliusstraße,45,traffic,urban,nw
+denw094,Aachen-Burtscheid,200,background,urban,nw
+denw095,Münster-Geist,64,background,urban,nw
+denw096,Mönchengladbach-Rheydt,83,background,suburban,nw
+denw112,Duisburg Kardinal-Galen-Straße,36,traffic,urban,nw
+denw114,Wuppertal-Langerfeld,186,background,urban,nw
+denw116,Krefeld (Hafen),34,industrial,suburban,nw
+denw131,Duisburg Kiebitzmühlenstraße,27,industrial,urban,nw
+denw133,Hagen Graf-von-Galen-Ring,112,traffic,urban,nw
+denw134,Essen Gladbecker Straße,50,traffic,urban,nw
+denw136,Dortmund Brackeler Straße,80,traffic,urban,nw
+denw179,Schwerte,118,background,urban,nw
+denw181,Warstein,315,industrial,urban,nw
+denw182,Elsdorf-Berrendorf,78,industrial,rural_nearcity,nw
+denw188,Oberhausen Mülheimer Straße 117,47,traffic,urban,nw
+denw189,Wuppertal Gathe,158,traffic,urban,nw
+denw200,Bielefeld Detmolder Straße,137,traffic,urban,nw
+denw206,Solingen Konrad-Adenauer-Straße,222,traffic,urban,nw
+denw207,Aachen Wilhelmstraße,168,traffic,urban,nw
+denw208,Gelsenkirchen Kurt-Schumacher-Straße,36,traffic,urban,nw
+denw211,Köln Clevischer Ring 3,53,traffic,urban,nw
+denw212,Köln Turiner Straße,55,traffic,urban,nw
+denw245,Stolberg Heinrich-Böll-Platz,195,industrial,urban,nw
+denw247,Essen-Schuir (LANUV),155,background,suburban,nw
+denw254,Duisburg Bergstraße 48,28,industrial,urban,nw
+denw259,Mönchengladbach Friedrich-Ebert-Straße,65,traffic,urban,nw
+denw260,Münster Weseler Straße,66,traffic,urban,nw
+denw329,Jackerath,112,industrial,rural,nw
+denw337,Jüchen-Hochneukirch,83,industrial,rural_nearcity,nw
+denw338,Duisburg-Bruckhausen,24,industrial,urban,nw
+denw355,Leverkusen Gustav-Heinemann-Str.,49,traffic,urban,nw
+denw367,Gladbeck Goethestraße,53,traffic,urban,nw
+denw375,Witten-Mitte,93,industrial,urban,nw
+denw378,Lünen Frydagstraße,51,industrial,urban,nw
+denw382,Duisburg (Rheinhafen),28,background,urban,nw
+denw383,Bielefeld Herforder Straße,113,traffic,urban,nw
+derp001,Ludwigshafen-Oppau,91,background,urban,rp
+derp003,Ludwigshafen-Mundenheim,98,industrial,urban,rp
+derp007,Mainz-Mombach,115,background,urban,rp
+derp009,Mainz-Zitadelle,100,background,urban,rp
+derp010,Mainz-Parcusstraße,85,traffic,urban,rp
+derp011,Mainz-Rheinallee,85,traffic,urban,rp
+derp013,Westpfalz-Waldmohr,460,background,rural,rp
+derp014,Hunsrück-Leisel,650,background,rural,rp
+derp015,Westeifel Wascheid,680,background,rural,rp
+derp016,Westerwald-Herdorf,480,background,rural,rp
+derp017,Pfälzerwald-Hortenkopf,600,background,rural,rp
+derp019,Kaiserslautern-Rathausplatz,232,background,urban,rp
+derp020,Trier-Ostallee,140,traffic,urban,rp
+derp021,Neuwied-Hafenstraße,65,background,urban,rp
+derp022,Bad Kreuznach-Bosenheimer Straße,108,background,urban,rp
+derp023,Worms-Hagenstraße,97,traffic,urban,rp
+derp024,Koblenz-Friedrich-Ebert-Ring,68,traffic,urban,rp
+derp025,Wörth-Marktplatz,115,background,urban,rp
+derp026,Frankenthal-Europaring,99,traffic,urban,rp
+derp028,Westerwald-Neuhäusel,540,background,rural,rp
+derp041,Ludwigshafen-Heinigstraße,94,traffic,urban,rp
+derp045,Koblenz-Hohenfelder Straße,70,traffic,urban,rp
+derp046,Neuwied-Hermannstraße,61,traffic,urban,rp
+derp047,Trier-Pfalzel,131,industrial,suburban,rp
+derp053,Speyer-Nord,103,background,suburban,rp
+derp060,Pirmasens-Innenstadt,378,background,urban,rp
+desh001,Altendeich,8,background,rural_regional,sh
+desh008,Bornhöved,45,background,rural_regional,sh
+desh013,Fehmarn,2,background,rural_regional,sh
+desh014,St.-Peter-Ording,2,background,rural_regional,sh
+desh015,Itzehoe,40,background,urban,sh
+desh016,Barsbüttel,42,background,suburban,sh
+desh022,Flensburg,15,traffic,urban,sh
+desh023,Lübeck-St. Jürgen,12,background,urban,sh
+desh027,Kiel-Bahnhofstr. Verk.,8,traffic,urban,sh
+desh030,Norderstedt,26,traffic,urban,sh
+desh035,Brunsbüttel-Cuxhavener Straße,0,background,urban,sh
+desh052,Kiel-Theodor-Heuss-Ring,18,traffic,urban,sh
+desh053,Lübeck Moislinger Allee,6,traffic,urban,sh
+desh055,Lübeck Fackenburger Allee,13,traffic,urban,sh
+desh056,Eggebek,14,background,rural_regional,sh
+desh057,Kiel-Bremerskamp,30,background,urban,sh
+desh058,Lauenburg-Murjahnstraße,37,background,urban,sh
+desl001,Berus,363,background,rural,sl
+desl002,Bexbach Schule,275,background,suburban,sl
+desl003,Dillingen City,185,industrial,urban,sl
+desl006,Lauterbach,221,background,suburban,sl
+desl010,Saarbrücken-Burbach,211,background,urban,sl
+desl011,Saarbrücken-Eschberg,315,background,urban,sl
+desl012,Saarbrücken-City,192,background,urban,sl
+desl013,Saarlouis-Fraulautern,181,background,suburban,sl
+desl017,Völklingen-City Stadionstr.,189,background,urban,sl
+desl019,Biringen,339,background,rural_regional,sl
+desl020,Saarbrücken-Verkehr,192,traffic,urban,sl
+desl030,Ottweiler,260,traffic,urban,sl
+desn001,Annaberg-Buchholz,545,background,urban,sn
+desn004,Bautzen,203,background,urban,sn
+desn006,Borna,145,traffic,urban,sn
+desn017,Freiberg,393,background,urban,sn
+desn019,Glauchau,233,background,urban,sn
+desn020,Görlitz,210,traffic,urban,sn
+desn024,Klingenthal,540,background,urban,sn
+desn025,Leipzig-Mitte,110,traffic,urban,sn
+desn045,Zittau-Ost,230,background,suburban,sn
+desn049,Carlsfeld,896,background,rural_remote,sn
+desn051,Radebeul-Wahnsdorf,246,background,rural_nearcity,sn
+desn052,Zinnwald,877,background,rural_regional,sn
+desn053,Fichtelberg,1214,background,rural_remote,sn
+desn059,Leipzig-West,115,background,urban,sn
+desn061,Dresden-Nord,112,traffic,urban,sn
+desn074,Schwartenberg,785,background,rural_regional,sn
+desn075,Plauen-Süd,343,traffic,urban,sn
+desn076,Collmberg,313,background,rural_remote,sn
+desn077,Leipzig Lützner Str. 36,113,traffic,urban,sn
+desn079,Niesky,148,background,rural_regional,sn
+desn080,Schkeuditz,122,background,rural_nearcity,sn
+desn081,Plauen-DWD,385,background,suburban,sn
+desn082,Leipzig-Thekla,110,background,suburban,sn
+desn083,Chemnitz-Leipziger Str.,327,traffic,urban,sn
+desn084,Dresden-Bergstr.,150,traffic,urban,sn
+desn091,Zwickau-Werdauer Str.,267,traffic,urban,sn
+desn092,Dresden-Winckelmannstr.,112,background,urban,sn
+desn093,Brockau,430,background,rural_regional,sn
+desn104,Chemnitz Hans-Link-Straße,318,background,urban,sn
+dest002,Burg,47,background,suburban,st
+dest011,Wernigerode/Bahnhof,235,background,urban,st
+dest015,Bitterfeld/Wolfen,75,industrial,suburban,st
+dest028,Zeitz,156,background,urban,st
+dest029,Bernburg,60,background,suburban,st
+dest039,Brocken,1130,background,rural_remote,st
+dest044,Halberstadt,120,background,urban,st
+dest050,Halle/Nord,116,background,urban,st
+dest066,Wittenberg/Bahnstrasse,71,background,urban,st
+dest077,Magdeburg/West,58,background,urban,st
+dest089,Zartau/Waldstation,95,background,rural_regional,st
+dest090,Leuna,96,industrial,suburban,st
+dest092,Wittenberg/Dessauer Strasse,73,traffic,urban,st
+dest095,Aschersleben,118,traffic,urban,st
+dest098,Unterharz / Friedrichsbrunn,419,background,rural_regional,st
+dest101,Halberstadt/Friedenstrasse,116,traffic,urban,st
+dest102,Halle/Paracelsusstr.,118,traffic,urban,st
+dest103,Magdeburg Schleinufer,53,traffic,urban,st
+dest104,Domäne Bobbe,72,background,rural,st
+dest105,Stendal Stadtsee,35,background,urban,st
+dest106,Goldene Aue (Roßla),143,background,rural,st
+dest108,Weißenfels/Am Krug,116,traffic,urban,st
+dest112,Magdeburg/Guericke-Stra.,56,traffic,urban,st
+dest133,Halle/Riebeckplatz,111,NA,NA,st
+deth005,Saalfeld,210,background,urban,th
+deth009,Gera Friedericistr.,190,background,urban,th
+deth011,Altenburg Theaterplatz,185,background,urban,th
+deth013,Eisenach Wernebrg.Str,210,background,urban,th
+deth018,Nordhausen,185,background,urban,th
+deth020,Erfurt Krämpferstr.,195,background,urban,th
+deth026,Dreißigacker,450,background,rural_regional,th
+deth027,Neuhaus,840,background,rural_remote,th
+deth036,Greiz Mollbergstr.,265,background,urban,th
+deth041,Jena Dammstr.,140,background,urban,th
+deth042,Possen,420,background,rural_remote,th
+deth043,Erfurt Bergstr.,195,traffic,urban,th
+deth061,Hummelshain,357,background,rural_remote,th
+deth072,Suhl F.-König-Str,430,traffic,urban,th
+deth081,Erfurt Heinrichstr,210,traffic,urban,th
+deth083,Weimar Steubenstr.,220,traffic,urban,th
+deth091,Mühlhausen Wanfrieder Str,220,traffic,urban,th
+deth093,Weimar Schwanseestr.,224,background,urban,th
+deth095,Mühlhausen Bastmarkt,215,background,urban,th
+deth117,Erfurt Bautzener Weg,196,background,suburban,th
+deub001,Westerland,12,background,rural,ub
+deub004,Schauinsland,1205,background,rural_regional,ub
+deub005,Waldhof,74,background,rural,ub
+deub028,Zingst,1,background,rural,ub
+deub029,Schmücke,937,background,rural,ub
+deub030,Neuglobsow,65,background,rural_regional,ub
+deub046,Forellenbach,858,background,rural_remote,ub
+fr01005,Hayange,187,industrial,suburban,01
+fr01011,Metz-Centre,192,background,urban,01
+fr01012,Metz-Borny,204,background,urban,01
+fr01014,Pont-à-Mousson,179,background,urban,01
+fr01016,Atton,203,industrial,rural_nearcity,01
+fr01018,Scy-Chazelles,170,background,suburban,01
+fr01019,Thionville-Piscine,156,background,urban,01
+fr01020,Thionville-Centre,154,background,urban,01
+fr01021,Thionville-Garche,151,background,suburban,01
+fr01059,HAYANGE-MARSPICH,197,background,suburban,01
+fr01060,Malroy,170,industrial,rural_nearcity,01
+fr01064,Metz- Pont Grilles,164,traffic,urban,01
+fr01065,Belleville sur Meuse,195,traffic,urban,01
+fr02001,Berre l'Etang,6,background,suburban,02
+fr02004,Martigues P. Central,107,background,urban,02
+fr02006,Martigues Laurons,5,industrial,suburban,02
+fr02007,Martigues La Gatasse,124,industrial,suburban,02
+fr02008,Port de Bouc Leque,3,background,urban,02
+fr02009,Port Saint Louis,1,industrial,suburban,02
+fr02011,Fos sur Mer,21,background,suburban,02
+fr02012,Istres,20,background,urban,02
+fr02013,Fos Les Carabins,4,background,suburban,02
+fr02020,Rognac les Brets,48,industrial,suburban,02
+fr02021,Sausset les Pins,11,industrial,suburban,02
+fr02022,Arles,10,background,urban,02
+fr02028,Martigues Lavera,49,industrial,suburban,02
+fr02029,Chateauneuf La Mede,10,industrial,suburban,02
+fr02041,SALON,82,background,urban,02
+fr02043,Marignane,15,background,urban,02
+fr03006,MARSEILLE RABATAU,17,traffic,urban,03
+fr03014,MARSEILLE ST LOUIS,59,background,urban,03
+fr03021,AIX ROY RENE,182,traffic,urban,03
+fr03027,PLAN AUPS/STE  BAUME,682,background,rural_nearcity,03
+fr03029,AIX CENTRE ECOLE ART,192,background,urban,03
+fr03030,GARDANNE,203,industrial,suburban,03
+fr03032,AUBAGNE LES PASSONS,132,background,urban,03
+fr03037,VALLEE HUVEAUNE,74,background,suburban,03
+fr03043,MARSEILLE 5 AVENUES,73,background,urban,03
+fr03048,AIX PLATANES,296,background,suburban,03
+fr03060,LA SEYNE GENOUD,8,background,urban,03
+fr03067,BRIGNOLES,269,background,suburban,03
+fr03068,TOULON FOCH,6,traffic,urban,03
+fr03069,HYERES,32,background,urban,03
+fr03070,ESTEREL,5,background,suburban,03
+fr03071,TOULON CLARET,26,background,urban,03
+fr03080,AVIGNON   MAIRIE,19,background,urban,03
+fr03084,LE PONTET,21,background,suburban,03
+fr03086,APT,202,background,suburban,03
+fr03087,Avignon Semard,19,traffic,urban,03
+fr03088,CARPENTRAS,115,background,suburban,03
+fr04002,GENNEVILLIERS,28,background,urban,04
+fr04004,PARIS 18eme,60,background,urban,04
+fr04012,Place Victor Basch,66,traffic,urban,04
+fr04014,PARIS 12eme,40,background,urban,04
+fr04017,NEUILLY-SUR-SEINE,36,background,urban,04
+fr04018,AUBERVILLIERS,42,background,urban,04
+fr04023,CERGY-PONTOISE,85,background,urban,04
+fr04024,GONESSE,65,background,suburban,04
+fr04029,VERSAILLES,125,background,suburban,04
+fr04031,Av Champs Elysees,34,traffic,urban,04
+fr04034,VITRY-SUR-SEINE,95,background,urban,04
+fr04037,PARIS 13eme,57,background,urban,04
+fr04038,Zone Rurale SO,152,background,rural_regional,04
+fr04048,Zone Rurale Nord,140,background,rural_regional,04
+fr04049,LES ULIS,159,background,suburban,04
+fr04051,ARGENTEUIL,56,background,urban,04
+fr04055,PARIS 1er Les Halles,35,background,urban,04
+fr04058,Auto A1 -Saint-Denis,35,traffic,urban,04
+fr04059,SAINT-DENIS,31,background,urban,04
+fr04060,PARIS 7eme,31,background,urban,04
+fr04063,MANTES-LA-JOLIE,32,background,suburban,04
+fr04066,Zone rurale Sud,134,background,rural_regional,04
+fr04069,MELUN,56,background,suburban,04
+fr04071,Rue Bonaparte,32,traffic,urban,04
+fr04098,LOGNES,80,background,urban,04
+fr04099,NOGENT-SUR-MARNE,88,background,urban,04
+fr04100,VILLEMOMBLE,85,background,urban,04
+fr04101,CHAMPIGNY-SUR-MARNE,74,background,urban,04
+fr04118,Place de l'Opéra,45,traffic,urban,04
+fr04122,RN6-MELUN,48,traffic,suburban,04
+fr04123,RN2-PANTIN,44,traffic,urban,04
+fr04131,Boulevard Haussmann,42,traffic,urban,04
+fr04135,Boulevard Soult,44,traffic,urban,04
+fr04141,Quai des Celestins,35,traffic,urban,04
+fr04142,Zone Rurale Nord-Est,162,background,rural_regional,04
+fr04149,MONTGERON,68,background,urban,04
+fr04150,LA DEFENSE,58,background,urban,04
+fr04156,BOBIGNY,51,background,urban,04
+fr04158,Zone Rurale NO,122,background,rural_regional,04
+fr04173,RD934 Coulommiers,73,traffic,suburban,04
+fr04179,PARIS Stade Lenglen,32,background,urban,04
+fr04180,RN20 - MONTLHERY,81,traffic,suburban,04
+fr04181,RAMBOUILLET,164,background,suburban,04
+fr04319,TREMBLAY-EN-FRANCE,65,background,suburban,04
+fr04323,EVRY,81,background,urban,04
+fr04324,Zone Rurale Est,120,background,rural_regional,04
+fr04328,Zone Rurale SE,127,background,rural_regional,04
+fr04329,Bld peripherique Est,49,traffic,urban,04
+fr05010,St Romain de Colbosc,117,background,suburban,05
+fr05037,Caucriauville,70,background,urban,05
+fr05056,Quillebeuf Phare,5,industrial,rural_nearcity,05
+fr05069,Tancarville Mairie,96,industrial,rural_nearcity,05
+fr05070,Harfleur Ecole Coty,15,background,urban,05
+fr05072,Sainte Adresse,51,background,urban,05
+fr05074,Le Havre Ec. Herriot,5,background,urban,05
+fr05078,Le Havre Massillon,3,background,urban,05
+fr05080,Rogerville Mairie,92,industrial,suburban,05
+fr05081,La Cerlangue,120,industrial,rural_nearcity,05
+fr05082,Touques,45,background,suburban,05
+fr05083,Gonfreville l Orcher,80,industrial,urban,05
+fr05084,NDGravenchon Pasteur,35,industrial,urban,05
+fr05085,Lillebonne,18,industrial,urban,05
+fr05087,Maison Parc Brotonne,10,background,rural_regional,05
+fr05088,Fécamp,20,background,suburban,05
+fr05089,Le Havre Lafaurie-montant,60,traffic,urban,05
+fr05090,Le Havre ville-haute,92,background,urban,05
+fr06001,Valenciennes Acacias,43,background,urban,06
+fr06003,Douai Theuriet,28,background,urban,06
+fr06006,Valenciennes Wallon,21,traffic,urban,06
+fr06007,Maubeuge Joyeuse,133,background,urban,06
+fr06011,Denain Villars,31,background,suburban,06
+fr06133,Cartignies,151,background,rural_nearcity,06
+fr07004,Montferrand,340,background,urban,07
+fr07009,Jardin Lecoq,390,background,urban,07
+fr07022,Paray le Fresil,235,background,rural_regional,07
+fr07028,Les Ancizes,720,industrial,suburban,07
+fr07031,Rageade,1040,background,rural_regional,07
+fr07034,Clermont-Esplanade Gare,360,traffic,urban,07
+fr07039,Chamalières Europe,412,traffic,urban,07
+fr07048,Villeneuve sur Allier,208,traffic,rural_nearcity,07
+fr07051,Beaulieu,344,background,suburban,07
+fr07052,Aurillac-Lagarde,640,background,urban,07
+fr07053,Edouard Michelin,354,traffic,urban,07
+fr07054,Le Puy-Causans,629,background,urban,07
+fr07056,Pays du Mezenc,1191,background,rural_regional,07
+fr07057,Moulins Centre,221,background,urban,07
+fr07058,Montluçon,203,background,urban,07
+fr07059,Vichy,257,background,urban,07
+fr07060,Royat Périurbaine,519,background,suburban,07
+fr07061,NA,329,background,suburban,07
+fr08003,Chaptal,41,background,urban,08
+fr08004,Saint Denis,38,traffic,urban,08
+fr08016,Prés Arènes,8,background,urban,08
+fr08017,Périurbaine Sud,5,background,suburban,08
+fr08018,Périurbaine Nord,128,background,suburban,08
+fr08020,Lunel,10,industrial,suburban,08
+fr08022,Agathois-piscénois,20,background,suburban,08
+fr08023,Biterrois-Narbonnais,71,background,rural_regional,08
+fr08030,Pompignane,17,traffic,urban,08
+fr08209,Gard Rhodanien2,85,industrial,rural_nearcity,08
+fr08252,GARNOR03,83,background,suburban,08
+fr08614,Gauzy,40,background,urban,08
+fr08616,Planas,50,traffic,urban,08
+fr08617,La Calmette,75,background,suburban,08
+fr08712,St Estève,61,background,suburban,08
+fr08713,Rigaud,50,background,urban,08
+fr08714,Les Carmes,25,background,urban,08
+fr09003,place de VERDUN,10,background,urban,09
+fr09008,Aytré,10,background,suburban,09
+fr09015,Les Couronneries,119,background,suburban,09
+fr09103,Square Pablo Casals,83,background,urban,09
+fr09106,ANGOULEME-GAMBETTA,62,traffic,urban,09
+fr09203,Place Orbigny LR,10,industrial,urban,09
+fr09301,AIRVAULT 2,120,industrial,suburban,09
+fr09302,Zoodyssée Chizé,93,background,rural_regional,09
+fr09399,Niort Trafic 6,27,traffic,urban,09
+fr09403,Ecole maternelle Porte de Paris - extérieur,77,traffic,urban,09
+fr09404,Poitiers Centre  Augouard,110,background,urban,09
+fr10004,Malo-les-Bains,8,background,urban,10
+fr10012,Mardyck,1,industrial,suburban,10
+fr10016,Calais Berthelot,4,background,urban,10
+fr10017,St Pol mer - cheminots,4,background,urban,10
+fr10025,Sangatte,3,background,suburban,10
+fr10026,Calais Parmentier,3,background,urban,10
+fr10028,Gravelines PC/Drire,3,industrial,suburban,10
+fr10029,Cappelle,3,background,suburban,10
+fr10030,NA,7,traffic,urban,10
+fr10032,Outreau,58,background,suburban,10
+fr10034,Grande-synthe,3,industrial,urban,10
+fr10041,St Omer Ribot,12,background,urban,10
+fr10132,Campagne les B.,170,background,rural_regional,10
+fr11007,Lille Leeds,20,traffic,urban,11
+fr11016,Marcq CTM,19,background,urban,11
+fr11025,Lille Fives,25,background,urban,11
+fr11026,Halluin stade,24,background,suburban,11
+fr11034,Roubaix Serres,31,traffic,urban,11
+fr11114,Wattignies,51,background,suburban,11
+fr12004,ECOLE M.JACQUIER,143,background,urban,12
+fr12015,MIRAMONT,351,industrial,urban,12
+fr12016,DAURAT ST GAUDENS,395,industrial,urban,12
+fr12020,PEYRUSSE,240,background,rural_remote,12
+fr12021,MAZADES,139,background,urban,12
+fr12026,ALBI DELMAS,182,background,urban,12
+fr12029,GAUDONVILLE,222,background,rural_regional,12
+fr12030,BERTHELOT,150,background,urban,12
+fr12031,BELESTA EN LAURAGAIS,260,background,rural_regional,12
+fr12039,EISENHOWER,159,industrial,urban,12
+fr12040,CHAPITRE,148,industrial,urban,12
+fr12041,SICOVAL,192,background,suburban,12
+fr12042,LOURDES LAPACCA,405,background,urban,12
+fr12044,Aeroport cote trafic,150,industrial,suburban,12
+fr12045,LOURDES PARADIS,377,traffic,urban,12
+fr12047,BESSIERES,104,industrial,rural_nearcity,12
+fr12052,Lycée Dupuy à Tarbes,311,background,urban,12
+fr12053,Stade Travet CASTRES,183,background,urban,12
+fr12054,TRAFIC_TOULOUSE,145,traffic,urban,12
+fr12085,Port de l Embouchure,147,traffic,urban,12
+fr14008,REVIN,394,background,rural_remote,14
+fr14010,BETHENY,91,background,suburban,14
+fr14011,DOUMER,80,traffic,urban,14
+fr14012,Jean d Aulan,96,background,urban,14
+fr14022,CHALONS,86,background,suburban,14
+fr14028,Rempart Perrier,74,traffic,urban,14
+fr14029,Capitainerie,101,background,suburban,14
+fr14031,LA TOUR,109,background,urban,14
+fr14032,ST PARRES AUX TERTRE,122,background,suburban,14
+fr14033,STE SAVINE,119,background,urban,14
+fr14042,St DIZIER L. Michel,151,background,urban,14
+fr14051,CHARLEVILLE,160,background,urban,14
+fr15013,Champ sur Drac,267,background,suburban,15
+fr15018,Voiron Urbain,286,background,urban,15
+fr15031,Le Casset2,1750,background,rural_remote,15
+fr15038,St Martin d'Heres,219,background,urban,15
+fr15039,Le Rondeau,225,traffic,urban,15
+fr15043,Grenoble Les Frenes,219,background,urban,15
+fr15045,Grenoble PeriurbSud,310,background,suburban,15
+fr15046,Grenoble Boulevards,218,traffic,urban,15
+fr15048,Gresivaudan Periurb,260,background,suburban,15
+fr16017,Nord-Est Alsace,114,background,rural_regional,16
+fr16029,STG Nord,114,background,urban,16
+fr16031,Vosges du Nord,340,background,rural_regional,16
+fr16034,STG Clemenceau,139,traffic,urban,16
+fr16038,Strasbourg Est,139,background,urban,16
+fr16040,Strasbourg A35,130,traffic,urban,16
+fr16041,Strasbourg Sud 2,144,background,suburban,16
+fr16052,Thann,343,industrial,urban,16
+fr16054,Colmar Centre,195,background,urban,16
+fr16057,Mulhouse Nord,236,background,urban,16
+fr16059,Chalampé,218,industrial,rural_nearcity,16
+fr16060,C.C.3 Frontières,247,background,suburban,16
+fr16064,Colmar Sud,200,background,suburban,16
+fr16065,Mulhouse Est,355,background,suburban,16
+fr16066,Mulhouse Sud 2,267,background,urban,16
+fr16067,Vieux Thann 3,327,industrial,urban,16
+fr16069,Mulhouse-Briand,255,traffic,urban,16
+fr16302,Vosges Moyennes 2,770,background,rural_remote,16
+fr18019,Nogent sur Oise,28,background,suburban,18
+fr18035,Salouel,30,background,suburban,18
+fr18039,Arrest,33,background,rural_regional,18
+fr18042,P. Roth St Quentin,95,background,urban,18
+fr18043,Faiencerie Creil,34,background,urban,18
+fr18045,Roye,86,background,rural_regional,18
+fr18053,St Pierre Amiens,28,background,urban,18
+fr18079,TRAFIC AMIENS,68,traffic,urban,18
+fr18080,TRAF Saint Quent 14,78,traffic,urban,18
+fr18089,Trafic Beauvais 1,72,traffic,urban,18
+fr19002,Rennes Laennec,28,traffic,urban,19
+fr19007,HALLES,27,traffic,urban,19
+fr19010,Rennes St-Yves,30,background,urban,19
+fr19012,Brest Mace,48,background,urban,19
+fr19014,Brest Desmoulins,59,traffic,urban,19
+fr19016,NA,66,background,suburban,19
+fr19017,Rennes Pays-Bas,45,background,urban,19
+fr19018,NA,45,background,suburban,19
+fr19020,NA,307,background,rural_remote,19
+fr19021,Lorient CTM,14,background,urban,19
+fr19032,Lorient B. Bissonnet,37,background,urban,19
+fr19033,Vannes UTA,20,background,urban,19
+fr19052,Quimper Pommiers,10,traffic,urban,19
+fr19053,QUIMPER ZOLA,61,background,urban,19
+fr19061,Saint Brieuc Balzac,90,background,urban,19
+fr19082,StMalo Rocabey,5,background,suburban,19
+fr20013,A7 SUD LYONNAIS,163,traffic,suburban,20
+fr20017,GERLAND,172,background,urban,20
+fr20019,GRANDCLEMENT,180,traffic,urban,20
+fr20029,FEYZIN STADE,160,industrial,suburban,20
+fr20031,ST FONS CENTRE,177,industrial,suburban,20
+fr20037,TERNAY,235,background,suburban,20
+fr20046,VAULX EN VELIN,172,background,urban,20
+fr20047,COTIERE AIN,180,background,suburban,20
+fr20048,SAINT EXUPERY,217,background,suburban,20
+fr20049,HAUT BEAUJOLAIS,540,background,rural_nearcity,20
+fr20062,LYON Centre,160,background,urban,20
+fr20064,VERNAISON,165,industrial,suburban,20
+fr20069,Lyon Périphérique,170,traffic,urban,20
+fr20070,LYON TRAFIC JAURES,167,traffic,urban,20
+fr20077,Villefranche Centre,184,background,urban,20
+fr21001,Caen Chemin-Vert,56,background,urban,21
+fr21016,Caen Vaucelles,8,traffic,urban,21
+fr21017,Ouistreham,6,background,suburban,21
+fr21019,IFS Caen sud,22,background,urban,21
+fr21021,Lisieux,56,background,urban,21
+fr21031,Alençon Météo-France,140,background,suburban,21
+fr21035,cherbourg doumer,9,background,urban,21
+fr21037,Cherbourg port charb,2,industrial,suburban,21
+fr21040,Saint-Lô Eglise,56,background,urban,21
+fr21050,La Coulonche MERA,309,background,rural_remote,21
+fr21060,Moult proximité,28,traffic,urban,21
+fr22009,Ecole de Carling(9),210,industrial,suburban,22
+fr22011,L Hôpital - Mairie,270,industrial,suburban,22
+fr22014,Spicheren(14),340,background,suburban,22
+fr22019,SCHOENECK (19),209,background,suburban,22
+fr22022,SARREGUEMINES,217,background,urban,22
+fr22054,Station de FORBACH,233,background,urban,22
+fr23001,AMPERE,10,industrial,suburban,23
+fr23003,LA MEGRETAIS,5,industrial,suburban,23
+fr23004,PASTEUR,9,industrial,suburban,23
+fr23068,FROSSAY,25,industrial,rural_nearcity,23
+fr23069,SAVENAY,50,industrial,suburban,23
+fr23070,S ETIENNE DE MONTLUC,62,industrial,suburban,23
+fr23075,JULES VERNE,8,industrial,suburban,23
+fr23078,SAINT EXUPERY,100,background,urban,23
+fr23107,LA CHAUVINIERE,20,background,urban,23
+fr23110,LEON BLUM,10,background,urban,23
+fr23120,BEAUX ARTS,30,background,urban,23
+fr23123,MAZAGRAN,51,background,urban,23
+fr23124,LA TARDIERE,100,background,rural_remote,23
+fr23140,VICTOR HUGO,20,traffic,urban,23
+fr23149,CUTULLIC2,4,industrial,suburban,23
+fr23150,APPENTIS,30,background,urban,23
+fr23152,DELACROIX,50,background,urban,23
+fr23153,BONNE FONTAINE,4,industrial,suburban,23
+fr23157,EPINETTES,12,background,suburban,23
+fr23163,Fillé,42,background,suburban,23
+fr23174,GUEDOU,50,background,urban,23
+fr23175,CLOS DES BEAUVAIS,20,background,suburban,23
+fr23177,SAINT-DENIS D'ANJOU,54,background,rural_regional,23
+fr23178,PARSCAU DU PLESSIS,9,industrial,suburban,23
+fr23181,PARC PAYSAGER,10,background,urban,23
+fr23182,SOURCES,50,background,urban,23
+fr23188,CIM BOUTEILLERIE,20,background,urban,23
+fr23230,GASPARD,12,background,suburban,23
+fr23238,LEVOYER,10,industrial,urban,23
+fr23239,LES COUETS,21,industrial,urban,23
+fr24007,ANTIBES JEAN MOULIN,81,background,suburban,24
+fr24009,CANNES BROUSSAILLES,71,background,urban,24
+fr24011,NICE OUEST BOTANIQUE,118,background,suburban,24
+fr24015,GRASSE CLAVECIN,345,background,urban,24
+fr24018,MANOSQUE,385,background,urban,24
+fr24021,PEILLON,196,industrial,suburban,24
+fr24023,CONTES 2,146,industrial,suburban,24
+fr24033,GAP COMMANDERIE,743,background,urban,24
+fr24035,NICE PROMENADE,4,traffic,urban,24
+fr24036,NICE ARSON,11,background,urban,24
+fr24038,GAP JEAN JAURES,736,traffic,urban,24
+fr24039,Obs Haute-Provence,668,background,rural_nearcity,24
+fr24040,Cheiron,994,background,rural_regional,24
+fr25035,Gd Couronne Mairie,22,industrial,urban,25
+fr25036,Espace du Palais,17,background,urban,25
+fr25039,Evreux Centre,65,background,urban,25
+fr25040,Mesnil Esnard,160,background,suburban,25
+fr25043,Centre Hospitalier,11,background,urban,25
+fr25045,Phare d Ailly,80,background,rural_nearcity,25
+fr25048,Petit Quevilly,9,background,urban,25
+fr25049,Base loisirs Poses,21,background,rural_nearcity,25
+fr25050,Bures-en-bray,65,background,rural_regional,25
+fr25051,Dieppe prox-auto,45,traffic,urban,25
+fr25053,Rouen Proxi Quai de Paris,9,traffic,urban,25
+fr25054,Petit-Quevilly Sud 3,9,traffic,urban,25
+fr26005,Station PEJOCES,238,background,suburban,26
+fr26010,Station DAIX,332,background,suburban,26
+fr26012,Station MORVAN,638,background,rural_remote,26
+fr26014,Station TREMOUILLE,246,traffic,urban,26
+fr26016,Station SENS,70,background,urban,26
+fr26017,Station NEVERS ISAT,190,background,urban,26
+fr26019,Station AUXERRE,107,background,urban,26
+fr26035,ProxTrafRur-NuitsStG,244,traffic,suburban,26
+fr26043,Dijon-Transvaal,240,traffic,urban,26
+fr27002,ROUSSILLON,157,background,urban,27
+fr27003,ROCHES DE CONDRIEU,152,industrial,suburban,27
+fr27005,Sablons,136,background,suburban,27
+fr27007,Bourgoin-Jallieu,227,background,urban,27
+fr27010,Plateau de Bonnevaux,520,background,rural_regional,27
+fr27011,NA,157,traffic,suburban,27
+fr28010,Harnes Serres,31,background,suburban,28
+fr28022,St-Laurent-Blangy,90,background,suburban,28
+fr28028,Bethune Stade,26,background,urban,28
+fr28033,Noeux-les-Mines,23,background,suburban,28
+fr28115,NA,33,traffic,urban,28
+fr29423,ROANNE,259,background,urban,29
+fr29424,SAINT ETIENNE SUD,552,background,urban,29
+fr29426,SAINT-CHAMOND,366,background,urban,29
+fr29429,RIVE DE GIER,259,traffic,suburban,29
+fr29439,LA TALAUDIERE,520,background,suburban,29
+fr29441,ST ETIENNE BD URBAIN,498,traffic,urban,29
+fr30016,Hotel Districal,210,background,urban,30
+fr30018,Remiremont,380,background,urban,30
+fr30019,Epinal,325,background,urban,30
+fr30020,Bar Le Duc,200,background,urban,30
+fr30021,Fléville,250,background,suburban,30
+fr30026,Luneville,230,traffic,urban,30
+fr30027,Frolois,285,industrial,urban,30
+fr30028,Schlucht,1200,background,rural_regional,30
+fr30029,Vittel,350,background,suburban,30
+fr30030,Neuves-Maisons,230,background,urban,30
+fr30032,Heming,280,industrial,rural_nearcity,30
+fr30033,Jonville en Woevre,213,background,rural_regional,30
+fr30034,Nancy-Charles III,200,background,urban,30
+fr30036,Nancy-Libération,275,traffic,urban,30
+fr30037,Nancy-Brabois 2,360,background,suburban,30
+fr31001,GRAND PARC,3,background,urban,31
+fr31002,TALENCE,20,background,urban,31
+fr31003,BORDEAUX-BASTIDE,3,traffic,urban,31
+fr31006,MERIGNAC,36,traffic,urban,31
+fr31007,BASSENS,36,background,urban,31
+fr31008,LE TEMPLE,43,background,rural_regional,31
+fr31010,AMBES,3,industrial,suburban,31
+fr31013,BILLERE,197,background,urban,31
+fr31016,SAINT-CROUTS,35,background,urban,31
+fr31017,ANGLET,40,traffic,urban,31
+fr31020,LACQ,107,industrial,rural_nearcity,31
+fr31021,LABASTIDE CEZERACQ,125,background,rural_regional,31
+fr31022,LAGOR,202,industrial,suburban,31
+fr31023,MASLACQ,76,industrial,suburban,31
+fr31024,MOURENX,106,industrial,suburban,31
+fr31026,TARTAS Pelletrin,22,industrial,suburban,31
+fr31033,PERIGUEUX,142,background,urban,31
+fr31036,DAX,14,background,urban,31
+fr31039,PAU TOURASSE,218,traffic,urban,31
+fr31040,MARMANDE,17,traffic,urban,31
+fr31041,MONT DE MARSAN,49,traffic,urban,31
+fr31043,Biarritz-hippodrome,70,background,urban,31
+fr31045,NA,15,traffic,urban,31
+fr32001,Chalon Centre Ville,177,traffic,urban,32
+fr32002,Champforgueil,187,background,suburban,32
+fr32005,Montceau-les-Mines,281,background,urban,32
+fr32006,Macon Paul Bert,172,background,suburban,32
+fr32007,Le Creusot Molette,374,background,urban,32
+fr33101,PASTEUR,280,background,urban,33
+fr33102,CHAMBERY LE HAUT,383,background,urban,33
+fr33105,Chambéry Trafic,277,traffic,urban,33
+fr33111,SAINT JEAN,555,background,urban,33
+fr33113,NA,742,traffic,suburban,33
+fr33120,CHAMONIX,1038,background,urban,33
+fr33121,Albertville,352,background,urban,33
+fr33122,La Léchère,423,industrial,rural_nearcity,33
+fr33201,LOVERCHY,453,background,urban,33
+fr33202,NOVEL,461,background,urban,33
+fr33203,ANNECY Rocade,452,traffic,urban,33
+fr33211,ANNEMASSE,441,background,urban,33
+fr33212,GAILLARD,426,background,urban,33
+fr33213,ANNEMASSE TRAFIC,432,traffic,urban,33
+fr33220,PASSY,588,background,suburban,33
+fr33232,BOSSONS,1044,traffic,urban,33
+fr33302,St Germain/Rhône,477,background,rural_nearcity,33
+fr33305,Bourg-en-Bresse,220,background,urban,33
+fr34013,Gambetta,117,traffic,urban,34
+fr34014,St Jean,110,background,urban,34
+fr34017,Marigny-les-usages,123,background,suburban,34
+fr34018,Montargis,95,background,urban,34
+fr34024,Joué lès Tours,90,background,urban,34
+fr34025,La Bruyère,100,background,urban,34
+fr34026,Tours péri-urbaine,107,background,suburban,34
+fr34028,Pompidou,51,traffic,urban,34
+fr34029,La_Source-CNRS,109,background,urban,34
+fr34030,Bourges-Baffier,156,traffic,urban,34
+fr34032,Leblanc,133,background,urban,34
+fr34038,Verneuil,182,background,rural_remote,34
+fr34041,Fulbert,145,background,urban,34
+fr34043,Oysonville,150,background,rural_regional,34
+fr34046,Dreux Centre,90,background,urban,34
+fr34047,Saint-Remy,99,traffic,urban,34
+fr34048,NA,129,traffic,urban,34
+fr34051,Chateauroux Sud,156,background,urban,34
+fr34054,Faverolles,130,background,rural_regional,34
+fr34056,Montierchaume,161,background,suburban,34
+fr34057,Issoudun_Trafic_ZR,147,traffic,urban,34
+fr34061,Blois nord,118,background,urban,34
+fr34064,NA,88,traffic,urban,34
+fr35002,ST JUNIEN - Fontaine,227,background,urban,35
+fr35004,BRIVE - Dalton,121,background,urban,35
+fr35005,GUERET - Nicolas,437,background,urban,35
+fr35006,TULLE - Hugo,264,background,urban,35
+fr35007,PALAIS S/ V.- Garros,333,background,suburban,35
+fr35010,LIMOGES - Aine,246,traffic,urban,35
+fr35012,LA NOUAILLE - MERA,810,background,rural_remote,35
+fr35019,SAILLAT - Ipaper,185,industrial,rural,35
+fr35027,NA,437,background,urban,35
+fr36001,Valence Périurb. Sud,125,background,suburban,36
+fr36002,Valence Urb. Centre,125,background,urban,36
+fr36007,Saint Bauzile CEC,460,industrial,rural_regional,36
+fr36019,Romans-sur-Isère,150,background,urban,36
+fr36021,Drôme Rurale Sud-SND,605,background,rural_remote,36
+fr36032,A7 Valence Est,113,traffic,urban,36
+fr37001,ST de Baie mahault,18,background,suburban,37
+fr37006,NA,7,background,urban,37
+fr37007,ST Vieux Bourg ABYMES,7,traffic,suburban,37
+fr37010,NA,37,background,urban,37
+fr38001,LYC. LISLET GEOFFROY,20,background,urban,38
+fr38002,MONTGAILLARD,150,background,suburban,38
+fr38008,Ecole JOINVILLE,39,background,urban,38
+fr38009,Ecole La Marine,5,industrial,suburban,38
+fr38011,Station Luther King,17,background,urban,38
+fr38014,Ligne Paradis,142,background,suburban,38
+fr38016,Station Bourg-Murat,1601,background,rural_regional,38
+fr38017,Grand Coude,1141,background,rural_regional,38
+fr38018,Centre Penitencier,147,industrial,suburban,38
+fr38020,Plateau Caillou,165,background,urban,38
+fr38021,Grand Fond,253,background,suburban,38
+fr38023,BD BANKS,91,traffic,urban,38
+fr38024,RDT SAINT-LEU,105,traffic,suburban,38
+fr38091,NA,19,industrial,urban,38
+fr38098,Sarda Garriga,5,industrial,urban,38
+fr39003,Etang Zabricot,25,industrial,urban,39
+fr39008,Ville de Schoelcher,20,background,urban,39
+fr39009,Lamentin,5,background,urban,39
+fr39010,Concorde,80,traffic,urban,39
+fr39014,Sainte_Luce,46,industrial,suburban,39
+fr39015,Hôtel de ville,11,industrial,urban,39
+fr39016,Robert Bourg,18,background,urban,39
+fr39017,Bellevue,40,background,suburban,39
+fr40006,Brady,6,background,urban,40
+fr40007,Kalou,12,background,suburban,40
+fr40008,Caiena3,5,background,urban,40
+fr41001,AJACCIO CANETTO,39,background,urban,41
+fr41002,BASTIA GIRAUD,60,background,urban,41
+fr41003,AJACCIO PIATANICCIA,30,industrial,suburban,41
+fr41004,BASTIA LA MARANA,30,industrial,suburban,41
+fr41007,AJACCIO SPOSATA,60,background,suburban,41
+fr41017,BASTIA MONTESORO,47,background,suburban,41
+fr41024,VENACO,653,background,rural_regional,41
+fr41059,AJACCIO ABBATUCCI,8,traffic,urban,41
+fr41060,BASTIA FANGO,15,traffic,urban,41
+fr42010,NA,NA,NA,NA,42
+fr82001,Besancon Mégevand,243,traffic,urban,82
+fr82005,Montfaucon,490,background,suburban,82
+fr82006,Besancon Prevoyance,321,background,urban,82
+fr82010,Montbéliard centre,331,background,urban,82
+fr82012,Dambenois Citoyen,365,background,suburban,82
+fr82020,Belfort Octroi,360,traffic,urban,82
+fr82030,Montandon Baresans,746,background,rural_remote,82
+fr82040,Dole centre,223,background,urban,82
+fr82041,Tavaux,192,industrial,rural,82
+fr82042,Damparis,210,industrial,rural,82
+fr82043,Chatenois,213,industrial,suburban,82
+fr82050,Lons-le-Saunier CV,261,background,urban,82
+fr82060,Vesoul Pres Caillet,217,background,urban,82
+fr82070,Baume-les-Dames,273,traffic,urban,82
